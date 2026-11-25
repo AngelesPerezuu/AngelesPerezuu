@@ -33,5 +33,5 @@ Estudiante de **Desarrollo de Software** enfocada en desarrollo backend, aplicac
 
 ### Contacto
 
-* **LinkedIn:** [Tu perfil de LinkedIn](https://linkedin.com/in/tu-usuario)
-* **Correo:** tu.correo@ejemplo.com
+* **LinkedIn:** (www.linkedin.com/in/angeles-shayan-perez-diaz-1b5309266)
+* **Correo:** angelesperezdi@gmail.com
